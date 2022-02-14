@@ -1,0 +1,14 @@
+C:\Users\memme\Desktop\P225\Task\P225polymorphysm\bin\Debug\netcoreapp3.1\P225polymorphysm.exe
+C:\Users\memme\Desktop\P225\Task\P225polymorphysm\bin\Debug\netcoreapp3.1\P225polymorphysm.deps.json
+C:\Users\memme\Desktop\P225\Task\P225polymorphysm\bin\Debug\netcoreapp3.1\P225polymorphysm.runtimeconfig.json
+C:\Users\memme\Desktop\P225\Task\P225polymorphysm\bin\Debug\netcoreapp3.1\P225polymorphysm.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P225\Task\P225polymorphysm\bin\Debug\netcoreapp3.1\P225polymorphysm.dll
+C:\Users\memme\Desktop\P225\Task\P225polymorphysm\bin\Debug\netcoreapp3.1\P225polymorphysm.pdb
+C:\Users\memme\Desktop\P225\Task\P225polymorphysm\obj\Debug\netcoreapp3.1\P225polymorphysm.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P225\Task\P225polymorphysm\obj\Debug\netcoreapp3.1\P225polymorphysm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P225\Task\P225polymorphysm\obj\Debug\netcoreapp3.1\P225polymorphysm.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P225\Task\P225polymorphysm\obj\Debug\netcoreapp3.1\P225polymorphysm.AssemblyInfo.cs
+C:\Users\memme\Desktop\P225\Task\P225polymorphysm\obj\Debug\netcoreapp3.1\P225polymorphysm.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P225\Task\P225polymorphysm\obj\Debug\netcoreapp3.1\P225polymorphysm.dll
+C:\Users\memme\Desktop\P225\Task\P225polymorphysm\obj\Debug\netcoreapp3.1\P225polymorphysm.pdb
+C:\Users\memme\Desktop\P225\Task\P225polymorphysm\obj\Debug\netcoreapp3.1\P225polymorphysm.genruntimeconfig.cache
