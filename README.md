@@ -1,0 +1,1 @@
+# P225_CSharp_14-02-2022_Polymorphysm_Abstract_Interface_Sealed
